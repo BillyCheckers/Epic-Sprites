@@ -1,0 +1,11 @@
+{
+    "ID": "BillyCheckers_TrueLab",
+    "Title": "Lunarians CYF Expansion",
+    "Description": "The Lunarians by billy checkers for CYF.",
+    "Version": "1.0.0",
+    "Author": "billy checkers & ursacascadia",
+    "Tags": "Cosmetic",
+    "Dependencies": {
+        "Kernelmethod_ChooseYourFighter": "*"
+    }
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<KernelmethodChooseYourFighter>
+    <group ID="BillyCheckers_TrueLab" Name="- Lunarians {{K|by billy checkers}}">
+        <model ID="BillyCheckers_FantasyFantasy" Name="{{lunar|Fantasy Fantasy}}">
+            <tile Path="fantasy.png" Foreground="B" DetailColor="y" />
+        </model>
+        <model ID="BillyCheckers_GirshCask" Name="{{lunar|Girsh Cask}}">
+            <tile Path="girshcask.png" Foreground="B" DetailColor="y" />
+        </model>
+        <model ID="BillyCheckers_Gravist" Name="{{lunar|Gravist}}">
+            <tile Path="grav.png" Foreground="B" DetailColor="y" />
+        </model>
+        <model ID="BillyCheckers_Herald" Name="{{lunar|Herald}}">
+            <tile Path="herald.png" Foreground="B" DetailColor="y" />
+        </model>
+        <model ID="BillyCheckers_MoonChild" Name="{{lunar|Moon Child}}">
+            <tile Path="moonchild.png" Foreground="B" DetailColor="y" />
+        </model>
+        <model ID="BillyCheckers_Raynaut" Name="{{lunar|Raynaut}}">
+            <tile Path="naut.png" Foreground="B" DetailColor="y" />
+        </model>
+        <model ID="BillyCheckers_Paracusian" Name="{{lunar|Paracusian}}">
+            <tile Path="paracus.png" Foreground="B" DetailColor="y" />
+        </model>
+        <model ID="BillyCheckers_Renegade" Name="{{lunar|Renegade}}">
+            <tile Path="rena.png" Foreground="B" DetailColor="y" />
+        </model>
+        <model ID="BillyCheckers_Sarcoman" Name="{{lunar|Sarcoman}}">
+            <tile Path="sarco.png" Foreground="B" DetailColor="y" />
+        </model>
+        <model ID="BillyCheckers_Stonia" Name="{{lunar|Stonia}}">
+            <tile Path="stonia2.png" Foreground="B" DetailColor="y" />
+        </model>
+        <model ID="BillyCheckers_Vask" Name="{{lunar|Vask}}">
+            <tile Path="vask.png" Foreground="B" DetailColor="y" />
+        </model>
+    </group>
+</KernelmethodChooseYourFighter>
