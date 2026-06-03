@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <KernelmethodChooseYourFighter>
-    <group ID="BillyCheckers_TrueLab" Name="- Lunarians {{K|by billy checkers}}">
+    <group ID="BillyCheckers_TrueLab" Name="- {{lunar|Lunarians}} {{K|by billy checkers}}">
         <model ID="BillyCheckers_FantasyFantasy" Name="{{lunar|Fantasy Fantasy}}">
             <tile Path="fantasy.png" Foreground="B" DetailColor="y" />
         </model>
