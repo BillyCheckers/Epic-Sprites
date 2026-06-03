@@ -1,7 +1,8 @@
 {
   "WorkshopId": 3738211817,
   "Title": "Choose Your Fighter Expansion: Lunarians",
-  "Description": "By Billy checkers with xml by ursacascadia :D",
+  "Description": "by billy checkers (xml by ursacascadia)",
   "Tags": "cosmetic",
-  "Visibility": "0"
+  "Visibility": "0",
+  "ImagePath": "preview.png"
 }
