@@ -34,5 +34,8 @@
         <model ID="BillyCheckers_Vask" Name="{{lunar|Vask}}">
             <tile Path="vask.png" Foreground="B" DetailColor="y" />
         </model>
+        <model ID="BillyCheckers_MoonKing" Name="{{lunar|Moon King}}">
+            <tile Path="moonking.png" Foreground="B" DetailColor="y" />
+        </model>
     </group>
 </KernelmethodChooseYourFighter>
