@@ -23,7 +23,7 @@
             <tile Path="paracus.png" Foreground="B" DetailColor="y" />
         </model>
         <model ID="BillyCheckers_Renegade" Name="{{lunar|Renegade}}">
-            <tile Path="rena.png" Foreground="B" DetailColor="y" />
+            <tile Path="renagade.png" Foreground="B" DetailColor="y" />
         </model>
         <model ID="BillyCheckers_Sarcoman" Name="{{lunar|Sarcoman}}">
             <tile Path="sarco.png" Foreground="B" DetailColor="y" />
@@ -36,6 +36,9 @@
         </model>
         <model ID="BillyCheckers_MoonKing" Name="{{lunar|Moon King}}">
             <tile Path="moonking.png" Foreground="B" DetailColor="y" />
+        </model>
+        <model ID="BillyCheckers_Agnosi" Name="{{lunar|Agnosi}}">
+            <tile Path="agnosi.png" Foreground="C" DetailColor="y" />
         </model>
     </group>
 </KernelmethodChooseYourFighter>
